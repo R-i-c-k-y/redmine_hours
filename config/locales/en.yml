@@ -1,5 +1,7 @@
 # English strings go here for Rails i18n
 en:
+  plugin_name: Hours
+  label_timesheet_for: Timesheet for
   redmine_hours:
     current_day: Current day
     current_week: Current week
