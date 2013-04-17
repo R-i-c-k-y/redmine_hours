@@ -1,0 +1,12 @@
+# Italian strings go here for Rails i18n
+it:
+  plugin_name: Ore
+  label_timesheet_for: Scheda attività di
+  redmine_hours:
+    current_day: Oggi
+    current_week: Questa settimana
+    new_time_entry: Nuova registrazione di tempo
+    next_week: Settimana successiva
+    next_day: Giorno successivo
+    prev_week: Settimana precedente
+    prev_day: Giorno precedente
